@@ -1,8 +1,10 @@
-return {
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "catppuccin-latte",
-    },
-  },
-}
+-- return {
+--
+--   {
+--     "LazyVim/LazyVim",
+--     opts = {
+--       colorscheme = "catppuccin-latte",
+--     },
+--   },
+-- }
+return {}
